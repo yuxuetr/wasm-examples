@@ -2,4 +2,4 @@
 
 ## 案例列表
 
-- [Hello World](https://github.com/yuxuetr/wasm-examples/tree/main/hello-world)
+- [Hello World](./hello-world/README.md)
